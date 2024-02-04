@@ -1,0 +1,5 @@
+The Internet is a vast network that connects millions of computers globally. 
+It operates on a range of protocols, the primary one being the Internet Protocol (IP). 
+The Internet enables various services such as email, web browsing, and file sharing. 
+Key concepts include IP addresses, which uniquely identify devices on the network, and DNS (Domain Name System), which translates human-friendly domain names into IP addresses. 
+Understanding the Internet's structure and function is crucial for navigating and utilizing its resources effectively.
