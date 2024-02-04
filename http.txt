@@ -1,0 +1,5 @@
+HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. 
+It is a protocol used for transmitting hypermedia documents, such as HTML. 
+It follows a client-server model where requests are made by recipients (clients) to servers, which respond with the requested resources. 
+HTTP methods such as GET and POST define the types of operations to be performed. 
+HTTPS (HTTP Secure) is an extension of HTTP with encryption for secure communication over a computer network.
